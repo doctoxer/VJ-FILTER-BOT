@@ -1,15 +1,18 @@
-<p align="center">
-  <img src="https://envs.sh/TME.jpg" alt="VJ-Filter-Bot Logo">
-</p>
-<h1 align="center">
-  VJ FILTER BOT
-</h1>
+━━━━━━━━━━━━━━━━━━━━
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+<h2 align="center">
+    ──「 ᴀᴀᴍɪʏᴀ ❣︎ ᴇʟɪᴢᴀʙᴇᴛʜ 」──
+</h2>
+
+<p align="center">
+  <img src="https://i.imghippo.com/files/AYYP1593Zg.jpg">
 </p>
+
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀᴀᴍɪʏᴀ ᴇʟɪᴢᴀʙᴇᴛʜ ʀᴏʙᴏᴛ](https://t.me/MoviePalaceRoBot)**_
 
 ## Main Feature 
 <b>
+
   
 - [x] Clone Feature & On / Off
 - [x] Multiple Database Support & On / Off
@@ -33,11 +36,7 @@
 - [x] Custom Tutorial Button
 - [x] Bot Pm File Auto Delete
 
-- Note : You Can Turn On Or Off Every Feature, Just Use Which Feature You Want By Turning It On.
-
-Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
-
-### How To Deploy : [Video Tutorial](https://youtu.be/3SJR7vH2kRo)
+- Note : You Can Turn On Or Off Every Feature, Just Use Which Feature You Want By Turning It On.</b>
 
 ## Commands
 ```
@@ -133,7 +132,7 @@ Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Updat
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/VJ-Filter-Bot&branch=Tech_VJ&name=VJ-Filter-Bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/doctoxer/AutoFilter)&branch=Tech_VJ&name=VJ-Filter-Bot)
 </details>
 
 <details><summary><b>Deploy To Render</b></summary>
@@ -160,15 +159,12 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/VJBots/VJ-Filter-Bot/tree/Tech_VJ">
+<a href="https://render.com/deploy?repo=https://github.com/doctoxer/AutoFilter/tree/Tech_VJ">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
 
 <details><summary><b>Deploy To VPS</summary>
-
-
-`git clone https://github.com/VJBots/VJ-Filter-Bot`
 
 Install Packages
 
@@ -189,10 +185,6 @@ Edit info.py with variables as given below then run bot
  - Thanks To [Tech VJ](https://youtube.com/@Tech_VJ) To Modify And Add Amazing Feature In The Repo
  - Thanks To [Eva Marie](https://t.me/TeamEvamaria) For Base Repo
  - Thanks To All Everyone In This Journey</b>
-
-## Note 🏷️
- 
-[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01) 
 
 <b>Fork The Repo And Edit As Per Your Needs.</b>
 
