@@ -88,7 +88,7 @@ async def start(client, message):
         await asyncio.sleep(0.4)
         await m.delete()        
         m=await message.reply_sticker("CAACAgUAAxkBAAENdbdnfV3VDPaxVS9mffG807Q2pWKLbgACSw0AAqNpMVWW5xgI7wrw9DYE") 
-        await asyncio.sleep(3)
+        await asyncio.sleep(2.5)
         await m.delete()
         await message.reply_photo(
             photo=random.choice(PICS),
@@ -191,7 +191,7 @@ async def start(client, message):
         await asyncio.sleep(0.4)
         await m.delete()        
         m=await message.reply_sticker("CAACAgUAAxkBAAENdbdnfV3VDPaxVS9mffG807Q2pWKLbgACSw0AAqNpMVWW5xgI7wrw9DYE") 
-        await asyncio.sleep(3)
+        await asyncio.sleep(2.5)
         await m.delete()
         await message.reply_photo(
             photo=random.choice(PICS),
@@ -264,7 +264,7 @@ async def start(client, message):
         await asyncio.sleep(0.4)
         await m.delete()        
         m=await message.reply_sticker("CAACAgUAAxkBAAENdbdnfV3VDPaxVS9mffG807Q2pWKLbgACSw0AAqNpMVWW5xgI7wrw9DYE") 
-        await asyncio.sleep(3)
+        await asyncio.sleep(2.5)
         await m.delete()
         await message.reply_photo(
             photo=random.choice(PICS),
