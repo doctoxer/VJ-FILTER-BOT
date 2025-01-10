@@ -248,25 +248,20 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>• File Name : @MoviePalace_Main {filename}</b>
-<b>• File Size : {size}</b>
+    CAPTION = """<b>• File Name : [MOVIEPALACE](https://t.me/+3AR8iOF-8ENiYmQ9).{file_name}</b>
+<b>• File Size : {file_size}</b>
 
-<b>Team MoviePalace</b>""" 
+❀ Powered By @TeamMoviePalace 
+♡ File Credits @AmalMathew_TG""" 
 
     IMDB_TEMPLATE_TXT = """
-<b>Query: {qurey}
+<b>Hey {message.from_user.mention} 𔘓,
 
-IMDb Data:
+Your Requested for <a href={url}>{title}</a> | <a href={url}/releaseinfo>{year}</a>⭑.ᐟ
+Here is the result, choose which size you want.˃ᴗ˂
 
-<b>⟡ Title</b>: <a href={url}>{title}</a> | <a href={url}/releaseinfo>{year}</a>
-⟡ Genres: {genres}
-⟡ Languages : <code>{languages}</code>
-⟡ Release Info : {release_date}
-
-
-⏱ Result Shown in: {remaining_seconds}<i>sec</i> 🔥
-
-𓇢𓆸 Requested by : {message.from_user.mention}</b>"""
+❀ Powered By @TeamMoviePalace 
+♡ File Credits @AmalMathew_TG</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}🐼, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
