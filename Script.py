@@ -254,8 +254,7 @@ Nᴀᴍᴇ - {}"""
 ❀ Powered By @TeamMoviePalace 
 ♡ File Credits @AmalMathew_TG""" 
 
-    IMDB_TEMPLATE_TXT = """
-<b>Hey {message.from_user.mention} 𔘓,
+    IMDB_TEMPLATE_TXT = """<b>Hey {message.from_user.mention} 𔘓,
 
 Your Requested for <a href={url}>{title}</a> | <a href={url}/releaseinfo>{year}</a>⭑.ᐟ
 Here is the result, choose which size you want.˃ᴗ˂
@@ -461,7 +460,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
-♥︎ Dᴀᴛᴇ : <code>{}</code>
+♥︎  Dᴀᴛᴇ : <code>{}</code>
 ⏱ Tɪᴍᴇ : <code>{}</code>
 ⏲ Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 ➴ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
