@@ -248,7 +248,7 @@ Nᴀᴍᴇ - {}"""
 <b>• File Size : {file_size}</b>
 
 ❀ Powered By @TeamMoviePalace 
-♡ File Credits @AmalMathew_TG""" 
+♡ File Credits @AmalMathew_Official""" 
 
     IMDB_TEMPLATE_TXT = """<b>Hey {message.from_user.mention} 𔘓,
 
@@ -256,7 +256,7 @@ Your Requested for <a href={url}>{title}</a> | <a href={url}/releaseinfo>{year}<
 Here is the result, choose which size you want.˃ᴗ˂
 
 ❀ Powered By @TeamMoviePalace 
-♡ File Credits @AmalMathew_TG</b>"""
+♡ File Credits @AmalMathew_Official</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}🐼, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
